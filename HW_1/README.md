@@ -32,6 +32,3 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
-### Result
-一个三维Rosenbrock问题求解示例：
-![Alt text](image.png)
