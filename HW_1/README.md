@@ -1,4 +1,4 @@
-##HW1:Linear-search Steepest Gradient Descent
+## HW1:Linear-search Steepest Gradient Descent
 ### Dependency
 gcc >= 9.0
 GUN Make >= 4.0
