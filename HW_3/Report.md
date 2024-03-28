@@ -352,6 +352,6 @@ PHR-ALM 分为三个部分
 
 ###  Result:
 
-<video src="./pic/mpc.mp4"></video>
+![mpc](./pic/mpc.gif)
 
-<video src="./pic/mpc1.mp4"></video>
+![mpc1](./pic/mpc1.gif)
